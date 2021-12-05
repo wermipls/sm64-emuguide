@@ -5,5 +5,5 @@
 An older, but solid audio plugin with reasonably low latency. 
 
 !!!
-The configuration, including volume does not get saved - if this bothers you, try Azimer v0.70 or shunyuan.
+The configuration, including volume does not get saved - if this bothers you, try [Azimer v0.70](azi70.md) or [shunyuan](shunyuan.md).
 !!!
