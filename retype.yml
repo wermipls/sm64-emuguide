@@ -1,6 +1,7 @@
 input: .
 output: .retype/emuguide
 url: "wermi.neocities.org/emuguide"
+cname: false
 branding:
   title: "emu guide :cow2:"
 links:
