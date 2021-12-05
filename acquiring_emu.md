@@ -2,7 +2,7 @@
 
 The only version of Project64 allowed on the leaderboards is 1.6. **All other versions (such as 1.7 or 2.x) are banned.** The leaderboards also permit usage of Mupen64Plus and OpenEmu, providing native emulation options for Linux and Mac users respectively. This guide focuses on setting up Project64 1.6 specifically. 
 
-To speed up the configuration process, there's a prebuilt package available with the emulator and the best plugins. Extract the archive into a location you want, then follow the next sections in the guide. If you are getting any errors loading the plugins, make sure to install Visual C++ 2010 Redistributable Package.
+To speed up the configuration process, there's a prebuilt package available with the emulator and the best plugins. Extract the archive into any location you want, then follow the next sections in the guide.
 
 ## Download
 
