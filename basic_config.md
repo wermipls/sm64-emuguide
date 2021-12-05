@@ -19,10 +19,15 @@ If you plan on using the built-in ROM browser, I strongly recommend changing som
 ![](img/pj64_browser.gif)
 
 #### ROM settings
-As the settings are set on a per ROM basis, the tab contents will be entirely grayed out if you visit it without a ROM open. To edit those settings, either open a ROM and then open settings again, or right click a ROM in the browser and click **Edit Game Settings** on the context menu, as shown below.
+
+The tab contents will be entirely grayed out if you visit it without a ROM open. To edit those settings, either **open a ROM** and then open **Settings** again, or **right click a ROM** in the browser and click **Edit Game Settings** on the context menu, as shown below.
 
 ![](img/pj64_gamesettings.png)
 
 Make sure that **Memory Size** is set to **8 MB** (this should not be necessary if you have followed the previous steps) and **Counter Factor** is set to **1**, which will remove all the lag present in the game, which most notably happens near the DDD sub. Keep in mind that standard versions of Usamune ROM (J or U) will also require the **CPU core style** to be set to **Interpreter**. Unfortunately that option is far more CPU intensive, so if your computer is on the weaker side, I recommend keeping it at **Recompiler** and using the **VC version of Usamune** instead.
+
+!!!
+Since the settings are applied on a per ROM basis, you will need to set those for each different ROM you run.
+!!!
 
 ![](img/pj64_romconfig.png)
