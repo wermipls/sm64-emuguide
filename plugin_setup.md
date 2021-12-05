@@ -6,6 +6,10 @@ By default, Project64 1.6 comes with Jabo plugins. While they generally work, th
 All the necessary plugins are already included with the provided Project64 build, but if you did the installation manually, you will have to install the plugins manually, too. This is typically done by copying the plugin .dll files, as well as any other files into the Plugin folder inside Project64's installation directory.
 !!!
 
+## Plugin selection
+
+The plugins can be changed by opening the **Options -> Settings** menu. The **Plugins** tab should be selected by default.
+
 ### Graphics plugins
 - **Recommended:** [**LINK's GLideN64**](gliden64_link.md)
 - Alternatives: [GLideN64 rev.8004dc2](gliden64_old.md) or [glN64](gln64.md)
