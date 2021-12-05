@@ -2,8 +2,8 @@
 
 By default, Project64 1.6 comes with Jabo plugins. While they generally work, they are ridden by many problems, such as missing shadows on Intel GPUs or crackly audio. This section provides information on recommended plugins as well how to set them up.
 
-!!!
-All the necessary plugins are already included in the provided Project64 build, but if you did the installation manually, you will have to install the plugins manually, too.
+!!! Concerning manual setup
+All the necessary plugins are already included with the provided Project64 build, but if you did the installation manually, you will have to install the plugins manually, too.
 !!!
 
 ### Graphics plugins
