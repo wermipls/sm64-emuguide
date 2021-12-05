@@ -2,7 +2,7 @@ input: .
 output: .retype/emuguide
 url: "wermi.neocities.org/emuguide"
 branding:
-  title: "Emulator setup guide :cow2:"
+  title: "Emu guide :cow2:"
 links:
 - text: SM64 Speedruns Discord
   link: https://discord.gg/0Si1OtnB7Yp7QjUF
