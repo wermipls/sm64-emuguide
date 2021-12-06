@@ -1,5 +1,7 @@
 # raphnetraw for Project64
 
+![](./img/raphnetraw.png)
+
 A plugin for **third generation raphnet N64 to USB** adapters, allowing direct communication with the controller. Has low latency and provides 100% accurate inputs to console. No configuration possible (or needed).
 
 !!!
