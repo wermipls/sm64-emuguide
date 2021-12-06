@@ -2,7 +2,11 @@
 
 While not strictly related to setting up the emulator itself, this gets asked fairly often, so it needs to be mentioned.  You will have to acquire the game ROM **on your own**. I am unable to provide help as distribution of those is illegal. 
 
-Below are some checksums of known good files, which you can use to verify the validity of your ROMs. Keep in mind that **.n64** or **.v64** files will have **different checksums** than **.z64** files, as those have different [endianness](https://en.wikipedia.org/wiki/Endianness). If you do not have a program to generate the checksums of your files, you can instead use the [Usamune ROM](https://sites.google.com/view/supermario64/usamunepj/usamunerom) patcher, which will also validate the file before applying a patch.
+Below are some checksums of known good files, which you can use to verify the validity of your ROMs. If you do not have a program to generate the checksums of your files, you can instead use the [Usamune ROM](https://sites.google.com/view/supermario64/usamunepj/usamunerom) patcher, which will also validate the file before applying a patch.
+
+!!!
+Keep in mind that **.n64** or **.v64** files will have **different checksums** than **.z64** files, as those have different [endianness](https://en.wikipedia.org/wiki/Endianness).
+!!!
 
 | filename | checksum | 
 |-|-|
