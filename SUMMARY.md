@@ -1,6 +1,6 @@
 - [Introduction](index.md)
-- [Acquiring the emulator](acquiring_emu.md)
-- [Acquiring the game](acquiring_game.md)
+- [Acquiring the emulator](getting_emu.md)
+- [Acquiring the game](getting_game.md)
 - [Basic configuration](basic_config.md)
 - [Plugin configuration](plugin_setup.md)
 - [Graphics plugins]()
