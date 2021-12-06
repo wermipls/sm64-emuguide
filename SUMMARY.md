@@ -16,7 +16,7 @@
 - - [LINK's DirectInput](keyboardinput.md)
 - - [N-Rage's DirectInput](nrage.md)
 - [Controller specific instructions]()
-- - [how do i set up mygamecube controller. please i play melee and it works in dolphin. please help]()
+- - [Wii U/Switch Gamecube adapter](wiiu_gc.md)
 - [Additional stuff]()
 - - [Practice codes]()
 - - [Input display]()
