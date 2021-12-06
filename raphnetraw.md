@@ -2,6 +2,8 @@
 
 ![](./img/raphnetraw.png)
 
+[!file Download (manual setup only)](https://www.raphnet.net/programmation/mupen64plus-input-raphnetraw/pj64raphnetraw-1.0.7.zip)
+
 A plugin for **third generation raphnet N64 to USB** adapters, allowing direct communication with the controller. Has low latency and provides 100% accurate inputs to console. No configuration possible (or needed).
 
 !!!
