@@ -13,4 +13,10 @@ Keep in mind that **.n64** or **.v64** files will have **different checksums** t
 | Super Mario 64 (U) [!].z64 | MD5: `20b854b239203baf6c961b850a4a51a2` <br>SHA1: `9bef1128717f958171a4afac3ed78ee2bb4e86ce` | 
 | Super Mario 64 (J) [!].z64 | MD5: `85d61f5525af708c9f1e84dce6dc10e9` <br>SHA1: `8a20a5c83d6ceb0f0506cfc9fa20d8f438cafe51` | 
 
-**I strongly recommend acquiring Usamune ROM at this point.** Aside from being an excellent practice and learning tool, it provides a numerical input display feature which will be helpful in determining the optimal range setting for generic adapters and non-N64 controllers later on. More detailed information and instructions can be found on the [project's website](https://sites.google.com/view/supermario64/usamunepj/usamunerom).
+## Getting the practice ROM
+
+After getting Super Mario 64, it's a good idea to acquire the **Usamune ROM** as well. Aside from being **an excellent practice and learning tool**, it provides a numerical input display feature which will be helpful in determining the optimal range setting for generic adapters and non-N64 controllers later on. More detailed information and instructions can be found on the [project's website](https://sites.google.com/view/supermario64/usamunepj/usamunerom).
+
+For convenience, an online version of the patcher can be found below. Click on **Choose file** and select your **unmodified Super Mario 64** file, then select an appropriate version of the patch (**1.92u** or **1.92vc** for American version, or **1.92j** for the Japanese version of the game).
+
+[!ref target="blank" text="Usamune ROM patcher (online)"](https://wermi.neocities.org/usamune)
