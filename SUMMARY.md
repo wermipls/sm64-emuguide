@@ -14,7 +14,7 @@
 - - [raphnetraw](raphnetraw.md)
 - - [Octomino's SDL Input](octomino.md)
 - - [LINK's DirectInput](keyboardinput.md)
-- - [N-Rage's DirectInput](nrage.md)
+- - [N-Rage's Input](nrage.md)
 - [Controller specific instructions]()
 - - [Wii U/Switch Gamecube adapter](wiiu_gc.md)
 - [Additional stuff]()
