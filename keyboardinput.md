@@ -12,4 +12,4 @@ For example, the first line of the default config file is `2 4C`, which means th
 
 An additional video explanation can be found here:
 
-[!embed](https://www.youtube.com/embed/pwsz8ak65N0)
+[!embed](https://www.youtube.com/embed/pwsz8ak65N0?start=142)
