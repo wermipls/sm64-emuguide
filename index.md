@@ -7,3 +7,7 @@ This document describes in detail how to set up an emulator for Super Mario 64 s
 This guide is meant for **Super Mario 64 speedrunning** specifically, as other speedgames may have different rulesets and require different configurations. If you want to play N64 games casually instead, there's a [page on Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Nintendo_64_emulators) which may provide useful information.
 
 !!!
+
+## Support
+
+If you encounter any problems following the guide or you didn't find the information you need, feel free to ask in the **#technical-help** channel on [**Super Mario 64 Speedruns**](https://discord.gg/0Si1OtnB7Yp7QjUF) Discord. Me (wermi#1762) and others will try our best to provide help.
