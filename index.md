@@ -10,4 +10,4 @@ This guide is meant for **Super Mario 64 speedrunning** specifically, as other s
 
 ## Support
 
-If you encounter any problems following the guide or you didn't find the information you need, feel free to ask in the **#technical-help** channel on [**Super Mario 64 Speedruns**](https://discord.gg/0Si1OtnB7Yp7QjUF) Discord. Me (wermi#1762) and others will try our best to provide help.
+If you encounter any problems following the guide or you didn't find the information you need, feel free to ask in the **#technical_help** channel on [**Super Mario 64 Speedruns**](https://discord.gg/0Si1OtnB7Yp7QjUF) Discord. Me (wermi#1762) and others will try our best to provide help.
