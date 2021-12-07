@@ -11,3 +11,5 @@ Make sure to **disable** framebuffer emulation, since it increases latency.
 !!!warning
 If using OBS, make sure to use the **Game Capture** source.
 !!!
+
+[!ref Return to plugin selection](plugin_setup.md#plugin-selection)

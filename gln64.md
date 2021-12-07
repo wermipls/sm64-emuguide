@@ -7,3 +7,5 @@ An older plugin that still works great for Super Mario 64, while having lower re
 !!!
 Make sure to check **Enabled Dithered Alpha Testing** to fix the dissolve effect (appearing during warps or with Vanish Cap).
 !!!
+
+[!ref Return to plugin selection](plugin_setup.md#plugin-selection)

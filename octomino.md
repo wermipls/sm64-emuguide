@@ -17,3 +17,5 @@ While the original project doesn't have configuration and hasn't been updated in
 !!!warning
 The plugin is still work in progress and may have bugs. If you encounter a problem, [create an issue on GitHub](https://github.com/wermipls/octomino-sdl-input/issues) or let me know directly on Discord (wermi#1762).
 !!!
+
+[!ref Return to plugin selection](plugin_setup.md#plugin-selection)

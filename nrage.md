@@ -27,3 +27,5 @@ Usage mostly similar to the older version, aside from missing device selection. 
 !!!warning
 Avoid using in XInput mode - its code is poorly stitched on top of the rest of the plugin, which results in e.g. macros not working. It also doesn’t handle reconnecting controllers properly and the analog range is far too sensitive. If you have an XInput controller, [**Octomino's SDL Input**](octomino.md) should be used instead.
 !!!
+
+[!ref Return to plugin selection](plugin_setup.md#plugin-selection)

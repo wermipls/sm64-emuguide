@@ -13,3 +13,5 @@ It is suggested to use the **port 1 only** version for optimal performance.
 !!!
 If you have the dual-port version of the adapter, there is a fork that makes it possible to switch between N64 controllers by pressing Z+L+R: https://github.com/panther03/pj64raphnetraw/releases 
 !!!
+
+[!ref Return to plugin selection](plugin_setup.md#plugin-selection)
