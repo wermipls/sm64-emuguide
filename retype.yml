@@ -13,3 +13,6 @@ footer:
   copyright: "wermi {{ year }}"
 exclude: 
 - "README.md"
+edit:
+  repo: "https://github.com/wermipls/sm64-emuguide"
+  label: Edit on GitHub
