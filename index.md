@@ -1,5 +1,5 @@
 ---
-title: "emu guide :cow2:"
+title: "emu guide"
 description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
 ---
 
