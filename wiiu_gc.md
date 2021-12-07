@@ -16,9 +16,15 @@ Detailed instructions on the installation process can be found below.
 
 [!ref target="blank" text="Massive's website"](http://m4sv.com/page/wii-u-gcn-usb-driver)
 
-## Additional configuration
+## Additional driver config
 
-WIP
+After installing the drivers, it's a good idea to change a couple of settings. In the adapter application, click on the **Configure** button. By default, all four ports are enabled - you might want to **disable** the unused ones to avoid cluttering your device list. Set the **analog stick deadzones** to **0** (you'll be able to adjust the deadzone in Project64 later on). Check **Disable ports on exit** to disable vJoy devices after you're done using the drivers. After you're done, click on **Save and Close**.
+
+![Example configuration](./img/m4sv_conf.png)
+
+## Controller calibration
+
+Some Gamecube controllers come with analog stick offset out of the factory. Unfortunately, Massive's drivers don't calibrate the stick centers, like a real console would do. To compensate for this, you can callibrate the controller in Windows. In the adapter window, click on **Windows Gamepad Info**, then double click on **vJoy Device**. Go to the **Settings** tab and click on the **Calibrate** button. Follow the instructions in the calibration wizard. After finishing, your stick should be properly centered.
 
 ## Project64 setup
 

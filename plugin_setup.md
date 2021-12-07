@@ -25,3 +25,4 @@ Unfortunately there is a lot of controller plugins with their own set of quirks,
 - For **Xbox**, **Dualshock 4/5**, **Switch Pro Controller** or other **XInput** controllers: [**Octomino's SDL Input**](octomino.md).
 - For **keyboard**: [**LINK's DirectInput**](keyboardinput.md)
 - For other DirectInput controllers: [**N-Rage's DirectInput**](nrage.md)
+- For **Wii U/Switch Gamecube** adapters, [**see this page**](wiiu_gc.md) for special instructions.
