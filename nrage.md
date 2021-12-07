@@ -2,6 +2,8 @@
 
 ![](./img/nrage183.png)
 
+[!file Download (manual setup only)](https://www.dropbox.com/s/31fdrxuxjybzzu0/nrplugin2_183.zip?dl=1)
+
 !!!
 Before trying to set up the binds, go to the **Devices** tab and select your controller in the device dropdown.
 !!!
@@ -21,6 +23,8 @@ The **Real N64 Range** option should be **unchecked** at all times, as it reduce
 ## N-Rage Input Plugin V2 2.3c
 
 ![](./img/nrage23c.png)
+
+[!file Download (manual setup only)](https://www.dropbox.com/s/o92omr2tg7i0gyj/NRage_Input_V2.3d.zip?dl=1)
 
 Usage mostly similar to the older version, aside from missing device selection. Use this if you have any problems with 1.83.
 

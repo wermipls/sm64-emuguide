@@ -2,6 +2,8 @@
 
 ![](./img/azimer.png)
 
+[!file Download (manual setup only)](https://www.dropbox.com/s/7gete7pasuagz41/Azimer%20HLE%20Audio%20v0.60%20WIP%202.zip?dl=1)
+
 An older, but solid audio plugin with reasonably low latency. 
 
 !!!
