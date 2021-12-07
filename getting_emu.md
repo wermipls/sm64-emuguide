@@ -9,7 +9,7 @@ To speed up the configuration process, there's a prebuilt package available with
 [!file Mirror 1 (Dropbox)](https://www.dropbox.com/s/ku6eyhkubot000r/Project64%201.6%20%28wermi%27s%20build%20v2%29.zip?dl=1)
 [!ref target="blank" text="Mirror 2 (GDrive)"](https://drive.google.com/file/d/1N5GCsCE-MhrXTZym5CDoPUMb7ehwAr0u)
 
-Last updated on 2021-02-26.
+Last updated on 2021-05-10.
 
 ## Manual setup
 
