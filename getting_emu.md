@@ -1,3 +1,7 @@
+---
+description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
+---
+
 # Acquiring the emulator
 
 The only version of Project64 allowed on the leaderboards is 1.6. **All other versions (such as 1.7 or 2.x) are banned.** The leaderboards also permit usage of Mupen64Plus and OpenEmu, providing native emulation options for Linux and Mac users respectively. This guide focuses on setting up Project64 1.6 specifically. 

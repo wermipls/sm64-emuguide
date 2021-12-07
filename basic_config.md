@@ -1,3 +1,7 @@
+---
+description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
+---
+
 # Basic configuration
 
 Upon starting the emulator for the first time, you will be greeted with a splash screen with a language selection dropdown. I suggest keeping it set to **English**, as it will make it easier to follow the guide. 

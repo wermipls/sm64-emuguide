@@ -1,3 +1,7 @@
+---
+description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
+---
+
 # Wii U/Switch Gamecube adapter setup
 
 Unlike Yuzu or Dolphin, there is no native support for the Wii U adapter for Project64. It's necessary to install drivers which will make the adapter act like a standard DirectInput controller.

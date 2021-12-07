@@ -1,3 +1,7 @@
+---
+description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
+---
+
 # GlideN64 rev. 8004dc2
 
 ![](./img/gliden64_rev8004dc2.png)

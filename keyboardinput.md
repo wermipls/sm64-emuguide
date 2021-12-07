@@ -1,3 +1,8 @@
+---
+title: "LINK's DirectInput"
+description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
+---
+
 # LINK's DirectInput7 1.6.1
 
 ![](./img/keyboardinput.png)

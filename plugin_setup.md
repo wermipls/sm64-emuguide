@@ -1,3 +1,7 @@
+---
+description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
+---
+
 # Setting up the plugins
 
 By default, Project64 1.6 comes with Jabo plugins. While they generally work, they are ridden by many problems, such as missing shadows on Intel GPUs or crackly audio. This section provides information on recommended plugins as well how to set them up.

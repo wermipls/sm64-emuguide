@@ -1,3 +1,7 @@
+---
+description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
+---
+
 # raphnetraw for Project64
 
 ![](./img/raphnetraw.png)

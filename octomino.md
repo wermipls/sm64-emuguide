@@ -1,3 +1,8 @@
+---
+title: "Octomino's SDL Input"
+description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
+---
+
 # Octomino's SDL Input v0.1.1
 
 ![](./img/octomino.png)

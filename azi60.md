@@ -1,3 +1,8 @@
+---
+title: Azimer’s HLE v0.60
+description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
+---
+
 # Azimer’s HLE v0.60 WIP 2
 
 ![](./img/azimer.png)

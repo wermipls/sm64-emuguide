@@ -1,3 +1,7 @@
+---
+description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
+---
+
 # LINK's GLideN64
 
 ![](./img/gliden64_link.png)

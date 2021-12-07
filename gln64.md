@@ -1,3 +1,8 @@
+---
+title: "glN64"
+description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
+---
+
 # glN64 0.4.1
 
 ![](./img/gln64.png)

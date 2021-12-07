@@ -1,3 +1,8 @@
+---
+title: "emu guide :cow2:"
+description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
+---
+
 # Comprehensive emulator setup guide for Super Mario 64 speedruns
 
 This document describes in detail how to set up an emulator for Super Mario 64 speedrunning, while achieving the best experience possible. The guide is meant to improve upon [GiBoss' emulator setup guide](https://docs.google.com/document/d/1k02cyFMU2de1moy1NOUjX9M79I5N7tLEty7pSpenloE/edit?usp=sharing) by providing more detailed and up-to-date information, as well as being presented in a more concise way.

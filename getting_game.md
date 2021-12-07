@@ -1,3 +1,7 @@
+---
+description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
+---
+
 # Acquiring the game
 
 While not strictly related to setting up the emulator itself, this gets asked fairly often, so it needs to be mentioned.  You will have to acquire the game ROM **on your own**. I am unable to provide help as distribution of those is illegal. 

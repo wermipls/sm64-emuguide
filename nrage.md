@@ -1,3 +1,8 @@
+---
+title: "N-Rage's Input"
+description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
+---
+
 # N-Rage's Direct-Input8 V2 1.83
 
 ![](./img/nrage183.png)
