@@ -8,7 +8,7 @@ All the necessary plugins are already included with the provided Project64 build
 
 ## Plugin selection
 
-The plugins can be changed by opening the **Options -> Settings** menu. The **Plugins** tab should be selected by default.
+The plugins can be changed by opening the **Options -> Settings** menu. Follow the links for detailed information on configuring individual plugins.
 
 ### Graphics plugins
 - **Recommended:** [**LINK's GLideN64**](gliden64_link.md)
