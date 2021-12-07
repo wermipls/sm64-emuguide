@@ -1,8 +1,0 @@
-Margin of error: approximately 1/30 of a second or 33ms (sm64's pollrate)
-
-Shunyuan (w/ XAudio2)		263ms
-Shunyuan (w/ DSound)		255ms
-Azimer v0.60			209ms
-Azimer v0.30 (old driver)	195ms
-Jabo 1.6			260ms
-
