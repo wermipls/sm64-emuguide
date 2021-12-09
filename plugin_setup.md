@@ -12,7 +12,7 @@ All the necessary plugins are already included with the provided Project64 build
 
 ## Plugin selection
 
-The plugins can be changed by opening the **Options -> Settings** menu. Follow the links for detailed information on configuring individual plugins.
+The plugins can be changed by opening the **Options -> Settings** menu. After selecting, the plugins can be configured by going into **Options -> Configure Graphics/Audio/Controller plugin**. Follow the links below for detailed information on configuring individual plugins.
 
 ### Graphics plugins
 - **Recommended:** [**LINK's GLideN64**](gliden64_link.md)
