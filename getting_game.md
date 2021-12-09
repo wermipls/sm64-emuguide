@@ -22,7 +22,3 @@ Keep in mind that **.n64** or **.v64** files will have **different checksums** t
 After getting Super Mario 64, it's a good idea to acquire the **Usamune ROM** as well. Aside from being **an excellent practice and learning tool**, it provides a numerical input display feature which will be helpful in determining the optimal range setting for generic adapters and non-N64 controllers later on. More detailed information and instructions can be found on the project's website below.
 
 [!ref target="blank" text="Usamune ROM website"](https://sites.google.com/view/supermario64/usamunepj/usamunerom)
-
-For convenience, an online version of the patcher can be found below. Click on **Choose file** and select your **unmodified Super Mario 64** file, then select an appropriate version of the patch (**Practice US** or **Practice VC** for American version, or **Practice JP** for the Japanese version of the game).
-
-[!ref target="blank" text="Usamune ROM patcher (online)"](https://wermi.neocities.org/usamune)
