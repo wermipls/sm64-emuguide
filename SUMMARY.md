@@ -15,6 +15,7 @@
 - - [Octomino's SDL Input](octomino.md)
 - - [LINK's DirectInput](keyboardinput.md)
 - - [N-Rage's Input](nrage.md)
+- - [pj64-wiiu-gcn](pj64-wiiu-gcn.md)
 - [Controller specific instructions]()
 - - [Wii U/Switch Gamecube adapter](wiiu_gc.md)
 #- [Additional stuff]()
