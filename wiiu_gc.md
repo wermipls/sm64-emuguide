@@ -6,6 +6,11 @@ description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
 
 For the Wii U Gamecube adapter, there are two options to use it. You can either use an input plugin which supports the adapter natively (in similar fashion to Dolphin or Yuzu), or you can use Massive's drivers in conjunction with N-Rage.
 
+!!!warning Before you proceed
+If you have a **third party adapter**, you might want to **skip this part of the guide entirely**, and instead use your adapter in **PC mode** with [**N-Rage's Input**](nrage.md) plugin. This will likely be easier to set up, and work about the same. 
+
+In addition, [some adapters (with a push button instead of a switch) seemingly **can't be switched into Wii U mode**](https://forums.dolphin-emu.org/Thread-cannot-switch-compatible-gamecube-adapter-to-wiiu-switch-mode), which is necessary for the methods described below to work.
+!!!
 ## Native input plugin (experimental)
 
 For detailed instructions, see the plugin's individual page. You will have to install the plugin manually, as it's not yet included with the prebuilt Project64 1.6.
