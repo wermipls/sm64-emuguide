@@ -3,11 +3,11 @@ title: "pj64-wiiu-gcn"
 description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
 ---
 
-# pj64-wiiu-gcn v0.1.1
+# pj64-wiiu-gcn v0.1.2
 
 ![](./img/pj64-wiiu-gcn.png)
 
-[!file Download](https://github.com/wermipls/pj64-wiiu-gcn/releases/download/v0.1.1/pj64-wiiu-gcn.dll)
+[!file Download](https://github.com/wermipls/pj64-wiiu-gcn/releases/download/v0.1.2/pj64-wiiu-gcn.dll)
 
 !!!
 This plugin is experimental and currently untested on other adapters than official Nintendo and Mayflash. Please report any problems on SM64 Discord or [GitHub](https://github.com/wermipls/pj64-wiiu-gcn/issues). Make sure to include a log file, placed in `Logs/pj64-wiiu-gcn.txt`.
@@ -21,9 +21,9 @@ Before using the plugin, you'll need to have the WinUSB driver installed. To do 
 
 [!ref target="blank" text="Zadig (official page)"](http://zadig.akeo.ie/)
 
-After running, you should get a window similar to the one pictured below. Go to **Options** and check **List All Devices**. In the devices dropdown, select **WUP-028**. If you have a third party adapter, it might show up under a different name. 
+After running, you should get a window similar to the one pictured below. Go to **Options** and check **List All Devices**. In the devices dropdown, select **WUP-028**.
 
-!!!warning
+!!!danger
 **DO NOT** attempt to install the driver if the device does not match up! The **USB ID** field should have `057E 0337` in it, like on the screenshot below. If you have a third party adapter, make sure it's set to Wii U mode.
 !!!
 
