@@ -10,10 +10,10 @@ The only version of Project64 allowed on the leaderboards is 1.6. **All other ve
 
 To speed up the configuration process, there's a prebuilt package available with the emulator and the best plugins. Extract the archive into any location you want, then follow the next sections in the guide.
 
-Last updated on 2021-05-10.
+Last updated on 2021-12-13.
 
-[!file Mirror 1 (Dropbox)](https://www.dropbox.com/s/ku6eyhkubot000r/Project64%201.6%20%28wermi%27s%20build%20v2%29.zip?dl=1)
-[!ref target="blank" text="Mirror 2 (GDrive)"](https://drive.google.com/file/d/1N5GCsCE-MhrXTZym5CDoPUMb7ehwAr0u)
+[!file Mirror 1 (Dropbox)](https://www.dropbox.com/s/nsvarg54hf9g95q/Project64%201.6%20%28wermi%27s%20build%20v3%29.zip?dl=1)
+[!ref target="blank" text="Mirror 2 (GDrive)"](https://drive.google.com/file/d/1V5cq6ik3M1j9btEfDg8dIf-p_aWKaVMb)
 
 !!!
 If you get errors while loading any of the plugins, you will have to install the appropriate Visual C++ runtimes. For convenience, an all-in-one package can be found here: https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/
