@@ -13,7 +13,7 @@ In addition, [some adapters (with a push button instead of a switch) seemingly *
 !!!
 ## Native input plugin (experimental)
 
-For detailed instructions, see the plugin's individual page. You will have to install the plugin manually, as it's not yet included with the prebuilt Project64 1.6.
+For detailed instructions, see the plugin's individual page.
 
 [!ref pj64-wiiu-gcn](pj64-wiiu-gcn.md)
 ## Massive's drivers
