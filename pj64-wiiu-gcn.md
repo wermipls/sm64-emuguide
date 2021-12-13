@@ -28,3 +28,5 @@ After running, you should get a window similar to the one pictured below. Go to 
 !!!
 
 ![](./img/zadig.png)
+
+[!ref Return to plugin selection](plugin_setup.md#plugin-selection)
