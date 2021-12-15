@@ -15,7 +15,7 @@ A simple plugin based on the SDL2 library. Has plug and play support for control
 
 ![](./img/octomino_wermi.png)
 
-[!file Download (manual setup only)](https://github.com/wermipls/octomino-sdl-input/releases/download/2021.12.01/octomino-sdl-input-wermi-0b663a5.zip)
+[!file Download](https://github.com/wermipls/octomino-sdl-input/releases/download/2021.12.15/octomino-sdl-input-wermi-020d831.zip)
 
 While the original project doesn't have configuration and hasn't been updated in a while, there's a fork which provides rudimentary configuration support, including controls rebinding. Use this if you're not happy with the defaults.
 

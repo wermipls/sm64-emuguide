@@ -7,7 +7,7 @@ description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
 
 ![](./img/pj64-wiiu-gcn.png)
 
-[!file Download](https://github.com/wermipls/pj64-wiiu-gcn/releases/download/v0.2.0/pj64-wiiu-gcn.dll)
+[!file Download (manual setup only)](https://github.com/wermipls/pj64-wiiu-gcn/releases/download/v0.2.0/pj64-wiiu-gcn.dll)
 
 !!!
 This plugin is experimental and currently untested on other adapters than official Nintendo and Mayflash. Please report any problems on SM64 Discord or [GitHub](https://github.com/wermipls/pj64-wiiu-gcn/issues). Make sure to include a log file, placed in `Logs/pj64-wiiu-gcn.txt`.
