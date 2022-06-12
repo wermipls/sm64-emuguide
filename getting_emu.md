@@ -12,8 +12,8 @@ To speed up the configuration process, there's a prebuilt package available with
 
 Last updated on 2021-12-18.
 
-[!file Mirror 1 (Dropbox)](https://www.dropbox.com/s/q8gflk1se8sw1uc/Project64%201.6%20%28wermi%27s%20build%20v4%29.zip?dl=1)
-[!ref target="blank" text="Mirror 2 (GDrive)"](https://drive.google.com/file/d/1bn9LL1MTUMnefmuaotJyWxjUzDLFRsJv)
+[!file Mirror 1 (Dropbox)](https://www.dropbox.com/s/j9vbmzca4xqd7bs/Project64%201.6%20%28wermi%27s%20build%20v5%29.exe?dl=1)
+[!ref target="blank" text="Mirror 2 (GDrive)"](https://drive.google.com/file/d/1Tf2itlXMlcxe0Xp2XZn1iZCMqZ-wh4Z-)
 
 !!!
 If you get errors while loading any of the plugins, you will have to install the appropriate Visual C++ runtimes. For convenience, an all-in-one package can be found here: https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/
