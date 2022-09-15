@@ -8,7 +8,7 @@
 - - [GLideN64 rev.8004dc2](gliden64_old.md)
 - - [glN64](gln64.md)
 - [Audio plugins]()
-- - [Azimer's HLE v0.60](azi60.md)
+- - [Azimer's HLE v0.70 WIP 10](azi.md)
 - - [shunyuan's HLE audio](shunyuan.md)
 - [Controller plugins]()
 - - [raphnetraw](raphnetraw.md)
