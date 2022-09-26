@@ -19,7 +19,7 @@ The plugins can be changed by opening the **Options -> Settings** menu. After se
 - Alternatives: [GLideN64 rev.8004dc2](gliden64_old.md) or [glN64](gln64.md)
 
 ### Audio plugins
-- **Recommended:** [**Azimer’s HLE v0.60 WIP 2**](azi60.md)
+- **Recommended:** [**Azimer’s HLE v0.70 WIP 10**](azi.md)
 - Alternative: [shunyuan’s HLE audio](shunyuan.md)
 
 ### Controller plugins

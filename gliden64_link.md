@@ -6,9 +6,13 @@ description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
 
 ![](./img/gliden64_link.png)
 
-[!file Download (manual setup only)](https://cdn.discordapp.com/attachments/759963754548297750/760971960682807366/LINKS_GlideN64.zip)
+[!file Download (manual setup only)](https://www.mediafire.com/file/k9ad2bdodde327u/GLideN64-sm64hacks.zip/file)
+
+[!file Download (ANGLE DX11/Vulkan Edition)](https://www.mediafire.com/file/31n8khvmwx0ws73/GLideN64-angle.zip/file)
 
 Arguably the best HLE graphics plugin available. This is a fork based on GLideN64 4.0, introducing some regressions that improve romhack compatibility. This version of the plugin also allows for aspect ratio correction with framebuffer disabled. 720p resolution is recommended to avoid framebuffer artifacts.
+
+If ANGLE edition is used, make sure libEGL.dll and libGLESv2.dll are placed near the Project64.exe.
 
 !!!warning
 Make sure to **disable** framebuffer emulation, since it increases latency.
