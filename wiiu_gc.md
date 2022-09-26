@@ -11,7 +11,7 @@ If you have a **third party adapter**, you might want to **skip this part of the
 
 In addition, [some adapters (with a push button instead of a switch) seemingly **can't be switched into Wii U mode**](https://forums.dolphin-emu.org/Thread-cannot-switch-compatible-gamecube-adapter-to-wiiu-switch-mode), which is necessary for the methods described below to work.
 !!!
-## Native input plugin (experimental)
+## Native input plugin
 
 For detailed instructions, see the plugin's individual page.
 
