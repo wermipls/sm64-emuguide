@@ -20,7 +20,6 @@ The plugins can be changed by opening the **Options -> Settings** menu. After se
 
 ### Audio plugins
 - **Recommended:** [**Azimer’s HLE v0.70 WIP 10**](azi.md)
-- Alternative: [shunyuan’s HLE audio](shunyuan.md)
 
 ### Controller plugins
 Unfortunately there is a lot of controller plugins with their own set of quirks, and the optimal choice depends on the type of controller used.
