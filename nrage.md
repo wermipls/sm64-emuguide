@@ -25,16 +25,18 @@ The **Real N64 Range** option should be **unchecked** at all times, as it reduce
 
 ![An example of the range being set correctly](./img/range_correct.png)
 
-## N-Rage Input Plugin V2 2.3c
+## N-Rage Input Plugin V2 2.4(fork)
 
 ![](./img/nrage23c.png)
 
-[!file Download (manual setup only)](https://www.dropbox.com/s/o92omr2tg7i0gyj/NRage_Input_V2.3d.zip?dl=1)
+[!file Download (manual setup only)](https://malkierian.com/downloads/NRage-Xinput.zip)
 
 Usage mostly similar to the older version, aside from missing device selection. Use this if you have any problems with 1.83.
 
+The manual install package also includes Xidi, which may help with XInput controller compatibility.
+
 !!!warning
-Avoid using in XInput mode - its code is poorly stitched on top of the rest of the plugin, which results in e.g. macros not working. It also doesn’t handle reconnecting controllers properly and the analog range is far too sensitive. If you have an XInput controller, [**Octomino's SDL Input**](octomino.md) should be used instead.
+Avoid using in XInput mode - its code is poorly stitched on top of the rest of the plugin, which results in e.g. macros not working. It also doesn’t handle reconnecting controllers properly and the analog range is far too sensitive. If you have an XInput controller, [**Octomino's SDL Input**](octomino.md) can be used instead.
 !!!
 
 [!ref Return to plugin selection](plugin_setup.md#plugin-selection)
