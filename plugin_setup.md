@@ -19,7 +19,7 @@ The plugins can be changed by opening the **Options -> Settings** menu. After se
 - Alternatives: [GLideN64 rev.8004dc2](gliden64_old.md) or [glN64](gln64.md)
 
 ### Audio plugins
-- **Recommended:** [**Azimer’s HLE v0.70 WIP 10**](azi.md)
+- **Recommended:** [**Azimer's HLE v0.70 WIP 10**](azi.md)
 
 ### Controller plugins
 Unfortunately there is a lot of controller plugins with their own set of quirks, and the optimal choice depends on the type of controller used.
@@ -29,3 +29,7 @@ Unfortunately there is a lot of controller plugins with their own set of quirks,
 - For **keyboard**: [**LINK's DirectInput**](keyboardinput.md)
 - For other DirectInput controllers: [**N-Rage's Input**](nrage.md)
 - For **Wii U/Switch Gamecube** adapters, [**see this page**](wiiu_gc.md) for special instructions.
+
+### RSP plugin
+
+- **Recommended:** [**PJ64 Fixups**](fixups.md)
