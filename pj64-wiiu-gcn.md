@@ -3,14 +3,14 @@ title: "pj64-wiiu-gcn"
 description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
 ---
 
-# pj64-wiiu-gcn v0.2.2
+# pj64-wiiu-gcn
 
 ![](./img/pj64-wiiu-gcn.png)
 
-[!file Download (manual setup only)](https://github.com/wermipls/pj64-wiiu-gcn/releases/download/v0.2.2/pj64-wiiu-gcn.dll)
+[!ref target="blank" text="Download (manual setup only)"](https://github.com/wermipls/pj64-wiiu-gcn/releases)
 
 !!!
-This plugin is experimental and currently untested on other adapters than official Nintendo and Mayflash. Please report any problems on SM64 Discord or [GitHub](https://github.com/wermipls/pj64-wiiu-gcn/issues). Make sure to include a log file, placed in `Logs/pj64-wiiu-gcn.txt`.
+This plugin is experimental and currently untested on other adapters than official Nintendo and Mayflash. Please report any problems on [GitHub](https://github.com/wermipls/pj64-wiiu-gcn/issues). Make sure to include a log file, placed in `Logs/pj64-wiiu-gcn.txt`.
 !!!
 
 A proof of concept input plugin with native support for the Wii U/Switch Gamecube adapter (and clones in Wii U mode). No full rebinding available, but there is a couple of toggles which should cover most of usecases. Make sure that any programs using the adapter (such as Dolphin, Yuzu or GCNUSBFeeder) are closed. Before starting the emulator, make sure your controller is plugged into the **first port** on the adapter. If you didn't install the **WinUSB driver** through **Zadig** yet, see next section.
