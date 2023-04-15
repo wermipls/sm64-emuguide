@@ -26,7 +26,7 @@ Unfortunately there is a lot of controller plugins with their own set of quirks,
 
 - For **Raphnet N64 to USB v3** adapter: [**raphnetraw**](raphnetraw.md)
 - For **Xbox**, **Dualshock 4/5**, **Switch Pro Controller** or other **XInput** controllers: [**Octomino's SDL Input**](octomino.md)
-- For **keyboard**: [**LINK's DirectInput**](keyboardinput.md)
+- For **keyboard**: [**Luna's DirectInput**](luna.md) (recommended) or [**LINK's DirectInput**](keyboardinput.md)
 - For other DirectInput/generic controllers: [**N-Rage's Input**](nrage.md)
 - For **Wii U/Switch Gamecube** adapters, [**see this page**](wiiu_gc.md) for special instructions.
 

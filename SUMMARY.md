@@ -13,6 +13,7 @@
 - [Controller plugins]()
 - - [raphnetraw](raphnetraw.md)
 - - [Octomino's SDL Input](octomino.md)
+- - [Luna's DirectInput](luna.md)
 - - [LINK's DirectInput](keyboardinput.md)
 - - [N-Rage's Input](nrage.md)
 - - [pj64-wiiu-gcn](pj64-wiiu-gcn.md)
