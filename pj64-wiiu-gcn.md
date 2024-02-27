@@ -7,7 +7,7 @@ description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
 
 ![](./img/pj64-wiiu-gcn.png)
 
-[!ref target="blank" text="Download (manual setup only)"](https://github.com/wermipls/pj64-wiiu-gcn/releases/latest/download/pj64-wiiu-gcn.dll)
+[!ref target="blank" text="Download"](https://github.com/wermipls/pj64-wiiu-gcn/releases/latest/download/pj64-wiiu-gcn.dll)
 
 !!!
 Please report any problems on [GitHub](https://github.com/wermipls/pj64-wiiu-gcn/issues). Make sure to include a log file, placed in `Logs/pj64-wiiu-gcn.txt`.

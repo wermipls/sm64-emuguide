@@ -7,7 +7,7 @@ description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
 
 ![](./img/fixups.png)
 
-[!ref target="blank" text="Download (manual setup only)"](https://github.com/aglab2/PJ64Fixups/releases)
+[!ref target="blank" text="Download"](https://github.com/aglab2/PJ64Fixups/releases)
 
 This is an RSP plugin made by aglab2, which fixes multiple issues with the 1.6 version of Project64, while adding several new features.
 

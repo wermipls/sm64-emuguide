@@ -7,7 +7,7 @@ description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
 
 ![](./img/keyboardinput.png)
 
-[!file Download (manual setup only)](https://cdn.discordapp.com/attachments/329337636244291587/421198571266768907/KeyboardInput.zip)
+[!file Download](https://cdn.discordapp.com/attachments/329337636244291587/421198571266768907/KeyboardInput.zip)
 
 This is a modification of Jabo’s DirectInput meant for **keyboard** players, which adds support for analog modifiers (so you can e.g. walk instead of running). The modifiers are configured through the **KeyboardInputConfig.txt** file, which specifies the **amount by which the analog values get divided** next to corresponding **virtual-key codes**, which specify the buttons triggering the modifiers. 
 

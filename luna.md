@@ -7,7 +7,7 @@ description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
 
 ![](./img/luna.png)
 
-[!ref target="blank" text="Download (manual setup only)"](https://github.com/LunaticShiN3/Luna-DirectInput8/releases)
+[!ref target="blank" text="Download"](https://github.com/LunaticShiN3/Luna-DirectInput8/releases)
 
 !!!
 This plugin only works with keyboard. For controllers, use an appropriate alternative listed in the [plugin selection page](plugin_setup.md#plugin-selection).

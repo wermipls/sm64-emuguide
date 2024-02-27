@@ -7,7 +7,7 @@ description: "Comprehensive emulator setup guide for Super Mario 64 speedruns"
 
 ![](./img/nrage183.png)
 
-[!file Download (manual setup only)](https://www.dropbox.com/s/31fdrxuxjybzzu0/nrplugin2_183.zip?dl=1)
+[!file Download](https://www.dropbox.com/s/31fdrxuxjybzzu0/nrplugin2_183.zip?dl=1)
 
 !!!
 Before trying to set up the binds, go to the **Devices** tab and select your controller in the device dropdown.
@@ -29,7 +29,7 @@ The **Real N64 Range** option should be **unchecked** at all times, as it reduce
 
 ![](./img/nrage23c.png)
 
-[!file Download (manual setup only)](https://malkierian.com/downloads/NRage-Xinput.zip)
+[!file Download](https://malkierian.com/downloads/NRage-Xinput.zip)
 
 Usage mostly similar to the older version, aside from missing device selection. Use this if you have any problems with 1.83.
 
